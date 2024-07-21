@@ -1,8 +1,6 @@
 # AWS-Deepracer-Student-AI-&-ML-Program 2024 🎓
-[Screenshot 2024-07-22 012215](https://github.com/user-attachments/assets/1177e25a-01d2-477a-b5b8-6e11d4bd1238)
 
-
-https://youtu.be/vCt-F2HscOU
+![Screenshot 2024-07-22 012215](https://github.com/user-attachments/assets/3b4f6a2f-a9da-4a77-89c5-f470c48cd5f0)
 
 ## Overview
 
@@ -63,7 +61,7 @@ Learn about Gen AI in this new course offered free to all students who prequalif
 - **AWS DeepRacer Student League User Guide**: [Link to User Guide](https://aws.amazon.com/getting-started/?sc_icontent=awssm-evergreen-getting_started&sc_iplace=2up&trk=ha_awssm-evergreen-getting_started&sc_ichannel=ha&sc_icampaign=evergreen-getting_started)
 <!--- **Discord Community**: [Join the Community](https://discord.com/invite/deepracer)-->
 - **AWS DeepRacer Website**: [Visit Website](https://aws.amazon.com/deepracer)
-
+- **Youtube**: [link](https://youtu.be/vCt-F2HscOU)
 ## Join Me on This Journey! 🚀
 
 I am looking forward to the learning and competitions ahead. Stay tuned for updates on my progress and achievements in the AWS AI & ML Scholarship Program and the DeepRacer Student League.
