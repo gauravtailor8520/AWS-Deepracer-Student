@@ -28,7 +28,7 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 
 ## AWS DeepRacer Student League 🏎️
 
-![AWS DeepRacer](https://aws.amazon.com/deepracer/student/)
+[AWS DeepRacer](https://aws.amazon.com/deepracer/student/)
 
 - **Competitions**: Monthly races at national, regional, and global levels. Top racers earn a spot at the DeepRacer Student World Championship.
 - **Race Types**: 
@@ -44,7 +44,7 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 
 ## Resources 📖
 
-- **AWS DeepRacer Student League User Guide**: [Link to User Guide](https://aws.amazon.com/deepracer/student-league/user-guide)
+- **AWS DeepRacer Student League User Guide**: [Link to User Guide](https://aws.amazon.com/getting-started/?sc_icontent=awssm-evergreen-getting_started&sc_iplace=2up&trk=ha_awssm-evergreen-getting_started&sc_ichannel=ha&sc_icampaign=evergreen-getting_started)
 <!--- **Discord Community**: [Join the Community](https://discord.com/invite/deepracer)-->
 - **AWS DeepRacer Website**: [Visit Website](https://aws.amazon.com/deepracer)
 
