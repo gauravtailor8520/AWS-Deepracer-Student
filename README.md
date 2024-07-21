@@ -1,7 +1,5 @@
 # AWS-Deepracer-Student AI & ML Scholarship Program 2024 🎓
 
-[AWS AI & ML Scholarship](https://aws.amazon.com/deepracer/student/)
-
 ## Overview
 
 I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarship Program**. This program, in collaboration with Udacity, provides an excellent opportunity for students to dive deep into the world of Artificial Intelligence and Machine Learning. As part of the program, I will be completing various prerequisites, engaging in practical learning experiences, and competing in the AWS DeepRacer Student League.
@@ -18,7 +16,7 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 
 ### Learning Path 📚
 
-#### Lesson 1: Introduction to Machine Learning 🤖
+#### Introduction to Machine Learning 🤖
 - **Objective**: Understand the fundamentals of machine learning, explore case studies, and learn when and how to apply ML to solve problems.
 - **Content**: 
   - Fundamentals of ML process
@@ -30,7 +28,7 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 
 ## AWS DeepRacer Student League 🏎️
 
-![AWS DeepRacer](https://path/to/deepracer/image.png)
+![AWS DeepRacer](https://aws.amazon.com/deepracer/student/)
 
 - **Competitions**: Monthly races at national, regional, and global levels. Top racers earn a spot at the DeepRacer Student World Championship.
 - **Race Types**: 
@@ -47,7 +45,7 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 ## Resources 📖
 
 - **AWS DeepRacer Student League User Guide**: [Link to User Guide](https://aws.amazon.com/deepracer/student-league/user-guide)
-- **Discord Community**: [Join the Community](https://discord.com/invite/deepracer)
+<!--- **Discord Community**: [Join the Community](https://discord.com/invite/deepracer)-->
 - **AWS DeepRacer Website**: [Visit Website](https://aws.amazon.com/deepracer)
 
 ## Join Me on This Journey! 🚀
