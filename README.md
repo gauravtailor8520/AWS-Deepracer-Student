@@ -1,4 +1,8 @@
 # AWS-Deepracer-Student-AI-&-ML-Program 2024 🎓
+[Screenshot 2024-07-22 012215](https://github.com/user-attachments/assets/1177e25a-01d2-477a-b5b8-6e11d4bd1238)
+
+
+https://youtu.be/vCt-F2HscOU
 
 ## Overview
 
