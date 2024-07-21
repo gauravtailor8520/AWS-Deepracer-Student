@@ -1,6 +1,6 @@
 # AWS-Deepracer-Student AI & ML Scholarship Program 2024 🎓
 
-![AWS AI & ML Scholarship](https://path/to/image.png)
+[AWS AI & ML Scholarship](https://aws.amazon.com/deepracer/student/)
 
 ## Overview
 
