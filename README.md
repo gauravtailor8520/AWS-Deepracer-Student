@@ -10,9 +10,22 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 
 - **Prequalified for the Scholarship**: I have successfully prequalified for the AWS AI & ML scholarship, which enables me to apply for further learning and development opportunities.
 - **Next Steps**: 
-  - Visit Udacity and use the one-time code: **1PEQS1**.
-  - Complete the scholarship qualification tasks and submit the application by **September 30, 2024**.
-  - Udacity will contact winners by email.
+  - I'm going to Complete the scholarship qualification tasks and submit the application by **September 30, 2024**.
+ 
+===============================
+What's New
+===============================
+
+2024 DeepRacer Student League
+-------------------------------
+Compete to win prizes and achievements for placing in the top 10 regionally and top 100 globally in monthly races. The #1 racer from each region earns a spot at the DeepRacer Student World Championship. Learn more
+
+-------------------------------------------------------------
+After completing prequalification tasks in AWS DeepRacer Student, you can apply to the scholarship program on Udacity.
+
+-------------------------------------------------------------
+Learn about Gen AI in this new course offered free to all students who prequalify for the AWS AI & ML scholarship.
+  
 
 ### Learning Path 📚
 
@@ -28,14 +41,13 @@ I'm excited to share that I am participating in the **2024 AWS AI & ML Scholarsh
 
 ## AWS DeepRacer Student League 🏎️
 
-[AWS DeepRacer](https://aws.amazon.com/deepracer/student/)
-
 - **Competitions**: Monthly races at national, regional, and global levels. Top racers earn a spot at the DeepRacer Student World Championship.
 - **Race Types**: 
   - **Time Trial**: Achieve the fastest time over 3 continuous laps.
 - **Model Training**: 
   - Each participant receives 10 training hours per month.
   - Train a reinforcement learning model and view real-time simulations of the AWS DeepRacer car.
+ 
 
 ### Progress Tracking 📈
 
